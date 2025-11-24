@@ -2,7 +2,7 @@
 ДЗ от 24.11
 '''
 i = 10
-  While(i < 30, 2):
+  While(i < 30): 
     ans = i ** 2
-    i+=1
+    i+=2
     print('/n' ans)
